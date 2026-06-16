@@ -44,11 +44,3 @@
 
 ---
 
-<div align="center">
-
-### ⋆.·࿔ connect with me ◌˚.·✦
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/95866x2zdp2b3gq7hpnmlckcj?si=_f4_JiJdS6aX5cA-5FD2fA)
-
-⋆.·☁︎︎* .୨୧* .୨୧* .୨୧* . *☁︎︎·.⋆
-</div>
