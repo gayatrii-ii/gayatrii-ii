@@ -12,11 +12,11 @@
 
 </div>
 
-> ✧ 👋 Hi, I’m **@gayatrii-ii**
-> ✧ 👀 I’m interested in discovering and working on new ideas!
-> ✧ 🌱 I’m currently pursuing my undergrad..
-> ✧ 📬 How to reach me: [gayatrikadam172004@gmail.com](mailto:gayatrikadam172004@gmail.com)
-> ✧ 😄 Pronouns: she/her
+> ✧ 👋 Hi, I’m **@gayatrii-ii**<br>
+> ✧ 👀 I’m interested in discovering and working on new ideas!<br>
+> ✧ 🌱 I’m currently pursuing my undergrad..<br>
+> ✧ 📬 How to reach me: [gayatrikadam172004@gmail.com](mailto:gayatrikadam172004@gmail.com)<br>
+> ✧ 😄 Pronouns: she/her<br>
 
 ---
 
