@@ -1,10 +1,10 @@
 <div align="center">
 
-# ˗ˏˋ ♡ welcome to gayatrii-ii ♡ ˎˊ˗
+# ♡ gayatrii ~ ♡
 
 ⋆.·࿔✧✦✧࿔·.⋆
 
-✿ *a cozy corner for code, design, and hardware projects* ✿
+✿ *a cozy corner for my code, college projects, and tech journey* ✿
 
 ---
 
@@ -26,21 +26,20 @@
 
 </div>
 
-> ✧ this account hosts **projects i've posted** ♡
-> ✧ a mix of personal web builds, IoT experiments, and templates you can use
-> ✧ all repositories have structured setup instructions in their respective README.md files
+> ✧ this account hosts **projects i've built** while learning ♡
+> ✧ a mix of personal web builds, academic assignments, and collaborative hackathon projects
+> ✧ feel free to explore the code, check out the repositories, or connect with me!
 
 ---
 
 <div align="left">
 
-## ✿ guidelines ✿
+## ✿ coding notes ✿
 
 </div>
 
-> ✧ **feel free to:** fork, learn from, and get inspired by these projects
-> ✧ **please don't:** repost as your own work without credit
-> ✧ **if you use a template:** a little tag or shoutout is always appreciated ♡
+> ✧ **feel free to:** fork my repositories, read through the code, or get inspired for your own student projects
+> ✧ **please don't:** copy-paste complete academic assignments straight as your own submission without giving credit 
+> ✧ **let's collaborate:** if you find something interesting or want to build something neat together, reach out!
 
 ---
-
