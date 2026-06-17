@@ -32,7 +32,7 @@
 
 ---
 
-<div align="left">
+<div align="center">
 
 ## ✿ coding notes ✿
 
